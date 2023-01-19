@@ -21,7 +21,7 @@
                     gr.HTML(f'''
                     <div class="gr-prose" style="max-width: 80%">
                         <p>Private Automatic1111 Stable Diffusion Web UI on 🤗 | v1.6</p>
-                        <p>It is running on a GPU 🔥, you can <a href="https://huggingface.co/spaces/{os.environ['SPACE_ID']}/settings" style="text-decoration: underline" target="_blank">don't forget to remove the GPU attribution</a> once your are done playing with it</p> 
+                        <p>It is running on a GPU 🔥, you can <a href="https://huggingface.co/spaces/{os.environ['SPACE_ID']}/settings" style="text-decoration: underline" target="_blank">don't forget to remove the GPU attribution</a> once your are done</p> 
                         <p>📝 How to add private model or embed? 📺 Tutorial Video: <a href="https://youtu.be/jpxWRMino6c" style="target=" _blank"="">https://youtu.be/jpxWRMino6c</a> 🐣 Please follow me for new updates <a href="https://twitter.com/camenduru" style="target=" _blank"="">https://twitter.com/camenduru</a> </p>
                     </div>
                 ''')
